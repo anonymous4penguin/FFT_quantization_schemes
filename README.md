@@ -42,6 +42,7 @@ The following FPGA metrics are evaluated using Vivado:
 * Slices
 * fMAX
 * Power
+* Latency
 
 
 # ASIC Evaluation Metrics
